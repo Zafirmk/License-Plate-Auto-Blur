@@ -1,6 +1,8 @@
 # License-Plate-Auto-Blur
 
-**Project duration**: <5 hours 
+![Working Gif](https://github.com/Zafirmk/License-Plate-Auto-Blur/blob/master/WorkingGIF.gif)  
+
+**Project duration**: <5 hours   
 **IDE**: VS Code (Community Edition)  
 **Python Version**: Python 3.8
 
